@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+require "nokogiri"
+require "pry" 
+
+# Specify your gem's dependencies in cdi_project.gemspec
+gemspec
